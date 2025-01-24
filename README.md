@@ -1,2 +1,2 @@
 # impress_language
-# 自然言語処理
+# Natural language(自然言語処理)
